@@ -60,6 +60,8 @@ colors:
     cyan: '#a4ffff'
     white: '#ffffff'
 
+#brew tap homebrew/cask-fonts
+#brew install --cask font-hack-nerd-font
 font:
   normal:
     family: Hack Nerd Font Mono
